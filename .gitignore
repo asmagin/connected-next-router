@@ -5,3 +5,7 @@ node_modules
 lib
 umd
 .next
+
+# exclude build artifacts
+/dist
+*.tgz
